@@ -1,0 +1,27 @@
+{
+  "name": "@close5/eslint-config-close5-backend",
+  "version": "1.0.9",
+  "description": "A module for Close5 eslint backend rules",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.corp.ebay.com:Close5/eslint-config-close5-backend.git"
+  },
+  "keywords": [
+    "lint",
+    "eslint",
+    "backend"
+  ],
+  "author": "Edmond Meinfelder",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "eslint-plugin-import": "2.7.0",
+    "eslint-restricted-globals": "0.1.1"
+  }
+}
