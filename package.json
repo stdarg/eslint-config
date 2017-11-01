@@ -1,5 +1,5 @@
 {
-  "name": "@close5/eslint-config-close5-backend",
+  "name": "@standard_agument/eslint-config",
   "version": "1.0.9",
   "description": "A module for Close5 eslint backend rules",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.corp.ebay.com:Close5/eslint-config-close5-backend.git"
+    "url": "git@github.com:stdarg/eslint-config.git"
   },
   "keywords": [
     "lint",
